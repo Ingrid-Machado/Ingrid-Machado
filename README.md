@@ -1,16 +1,88 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AABF5E&height=120&section=header&text=Bem-vind!&fontColor=fff0f6&fontSize=40&fontAlignY=35"/>
 
-<!--
-**Ingrid-Machado/Ingrid-Machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=AABF5E&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Ingrid!;Desenvolvedora+Full+Stack+em+formação.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+##
+<div align="center">  
+📚 Desenvolvedora Full Stack em formação! <br>
+💻 Estudante de ADS na FATEC <br>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+<div align="center">  
+<img width="49%" height="195px" src=https://github-readme-stats.vercel.app/api?username=Ingrid-Machado&count_private=true&hide=stars&theme=github_dark_dimmed />
+<img width="40%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Machado&layout=compact&count_private=true&theme=github_dark_dimmed
+  (https://github.com/anuraghazra/github-readme-stats) />
+</div>
+
+##
+
+<div align="center">
+  <img 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+  />
+  <img 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  <img 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+  />
+   <img 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+  />
+  <img 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+  />
+</div>
+
+##
+
+<div align="center">  
+  <a href="www.linkedin.com/in/mayaravdsilva"(https://www.linkedin.com/in/ingrid-aline-5759b624a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AABF5E&height=120&section=footer"/>
