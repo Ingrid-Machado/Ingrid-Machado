@@ -4,7 +4,7 @@
 
 ##
 <div align="center">  
-📚 Desenvolvedora Full Stack em formação! <br>
+📚 Desenvolvedora Back-End em formação! <br>
 💻 Estudante de ADS na FATEC <br>
   
 </div>
