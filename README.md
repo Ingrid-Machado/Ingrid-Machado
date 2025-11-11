@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=header&text=Bem-vind!&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4B73F&height=120&section=header&text=Bem-vind!&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=895129&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Ingrid!;Desenvolvedora+Back-End+em+formação.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F4B73F&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Ingrid!;Desenvolvedora+Back-End+em+formação.)](https://git.io/typing-svg)
 
 ##
 <div align="center">  
@@ -12,8 +12,8 @@
 
 ##
 <div align="center">  
-<img width="49%" height="195px" src=https://github-readme-stats.vercel.app/api?username=Ingrid-Machado&count_private=true&hide=stars&theme=github_dark_dimmed />
-<img width="40%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Machado&layout=compact&count_private=true&theme=github_dark_dimmed
+<img width="49%" height="195px" src=https://github-readme-stats.vercel.app/api?username=Ingrid-Machado&count_private=true&hide=stars&theme=gruvbox />
+<img width="40%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Machado&layout=compact&count_private=true&theme=gruvbox
   (https://github.com/anuraghazra/github-readme-stats) />
 </div>
 
@@ -21,29 +21,29 @@
 
 <div align="center">
   <img 
-    alt="HTML"
-    title="HTML" 
+    alt="JAVA"
+    title="JAVA" 
     width="40px" 
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+  />
+  <img 
+    alt="HTML" 
+    title="HTML"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
   <img 
     alt="CSS" 
     title="CSS"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   <img 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
-    style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-  <img 
-    alt="Java" 
-    title="Java"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -71,4 +71,4 @@
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AABF5E&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4B73F&height=120&section=footer"/>
