@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AABF5E&height=120&section=header&text=Bem-vind!&fontColor=fff0f6&fontSize=40&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=895129&height=120&section=header&text=Bem-vind!&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=AABF5E&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Ingrid!;Desenvolvedora+Full+Stack+em+formação.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=895129&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Ingrid!;Desenvolvedora+Back-End+em+formação.)](https://git.io/typing-svg)
 
 ##
 <div align="center">  
@@ -25,28 +25,28 @@
     title="HTML" 
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
   />
   <img 
     alt="CSS" 
     title="CSS"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
   <img 
     alt="JavaScript" 
     title="JavaScript"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   <img 
     alt="Java" 
     title="Java"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
   <img 
     alt="Git" 
@@ -61,20 +61,6 @@
     width="40px" 
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-  />
-   <img 
-    alt="Java" 
-    title="Java"
-    width="40px" 
-    style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-  />
-  <img 
-    alt="Java" 
-    title="Java"
-    width="40px" 
-    style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
   />
 </div>
 
