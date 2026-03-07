@@ -7,15 +7,7 @@
 📚 Desenvolvedora Back-End em formação! <br>
 💻 Estudante de ADS na FATEC <br>
   
-</div>
 
-
-##
-<div align="center">  
-<img width="49%" height="195px" src=https://github-readme-stats.vercel.app/api?username=Ingrid-Machado&count_private=true&hide=stars&theme=gruvbox />
-<img width="40%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Ingrid-Machado&layout=compact&count_private=true&theme=gruvbox
-  (https://github.com/anuraghazra/github-readme-stats) />
-</div>
 
 ##
 
